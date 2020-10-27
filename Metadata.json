@@ -1,0 +1,20 @@
+{
+    "Author": "Windows Azure Product Team Scripts",
+    "ContentSize": 12894,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/deploy-a-sql-server-vm-with-striped-disks-in-windows-azure/master/Add-AzureStripedDiskSqlVm.ps1",
+    "DownloadCount": 2806,
+    "Id": "Create-a-SQL-Server-VM-in-0b8c6eed",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 178,
+    "RaterCount": 4,
+    "Rating": 4.8,
+    "ReleaseDate": "2013-9-3T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Adds a VM to the active subscription, based on SQL Server 2012 on Windows Server 2012 gallery image.Adds four disks to the VM and stripes them into two pools.  Formats them for use, creates a database, putting the data files on one volume and the log files on the other.",
+    "Title": "Deploy a SQL Server VM with Striped Disks in Windows Azure",
+    "UpdatedDate": "2014-10-16T00:00:00",
+    "Url": "https://github.com/azureautomation/deploy-a-sql-server-vm-with-striped-disks-in-windows-azure",
+    "UserTags": "Provisioning"
+}
